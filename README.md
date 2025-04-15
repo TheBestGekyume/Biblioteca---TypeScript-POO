@@ -1,6 +1,6 @@
 # Projeto: Biblioteca Online com TypeScript
 
-Este projeto consiste em desenvolver uma aplicação web que simula o sistema de gerenciamento de uma biblioteca, utilizando TypeScript para garantir a tipagem estática e organização do código.
+Este projeto consiste em desenvolver uma aplicação que simula o sistema de gerenciamento de uma biblioteca, utilizando TypeScript para garantir a tipagem estática e organização do código.
 
 ## Funcionalidades Principais
 
